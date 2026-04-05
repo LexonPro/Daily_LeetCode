@@ -1,7 +1,7 @@
 class Solution {
 public:
     bool judgeCircle(string moves) {
-        vector<int> m(4, 0); // initialize size 4
+        vector<int> m(4, 0); 
 
         for(int i = 0; i < moves.size(); i++){
             if(moves[i] == 'U'){
