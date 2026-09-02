@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/LexonPro/Daily_LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/LexonPro/Daily_LeetCode/tree/master/0015-3sum) |
+| [3875-construct-uniform-parity-array-i](https://github.com/LexonPro/Daily_LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -19,4 +20,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/LexonPro/Daily_LeetCode/tree/master/0011-container-with-most-water) |
+## Math
+|  |
+| ------- |
+| [3875-construct-uniform-parity-array-i](https://github.com/LexonPro/Daily_LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 <!---LeetCode Topics End-->
