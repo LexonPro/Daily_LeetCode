@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/LexonPro/Daily_LeetCode/tree/master/0002-add-two-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/LexonPro/Daily_LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/LexonPro/Daily_LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/LexonPro/Daily_LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/LexonPro/Daily_LeetCode/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/LexonPro/Daily_LeetCode/tree/master/0203-remove-linked-list-elements) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/LexonPro/Daily_LeetCode/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/LexonPro/Daily_LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/LexonPro/Daily_LeetCode/tree/master/0206-reverse-linked-list) |
 ## Floyd's Cycle Finding Algorithm
