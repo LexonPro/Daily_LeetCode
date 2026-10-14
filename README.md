@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/LexonPro/Daily_LeetCode/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/LexonPro/Daily_LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0231-power-of-two](https://github.com/LexonPro/Daily_LeetCode/tree/master/0231-power-of-two) |
 | [3875-construct-uniform-parity-array-i](https://github.com/LexonPro/Daily_LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/LexonPro/Daily_LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/LexonPro/Daily_LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/LexonPro/Daily_LeetCode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/LexonPro/Daily_LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/LexonPro/Daily_LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/LexonPro/Daily_LeetCode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/LexonPro/Daily_LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/LexonPro/Daily_LeetCode/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/LexonPro/Daily_LeetCode/tree/master/0231-power-of-two) |
 ## Divide and Conquer
 |  |
 | ------- |
