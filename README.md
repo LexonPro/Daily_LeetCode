@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/LexonPro/Daily_LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/LexonPro/Daily_LeetCode/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/LexonPro/Daily_LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/LexonPro/Daily_LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0560-subarray-sum-equals-k](https://github.com/LexonPro/Daily_LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/LexonPro/Daily_LeetCode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/LexonPro/Daily_LeetCode/tree/master/0704-binary-search) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/LexonPro/Daily_LeetCode/tree/master/0002-add-two-numbers) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/LexonPro/Daily_LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [3875-construct-uniform-parity-array-i](https://github.com/LexonPro/Daily_LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/LexonPro/Daily_LeetCode/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/LexonPro/Daily_LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/LexonPro/Daily_LeetCode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/LexonPro/Daily_LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/LexonPro/Daily_LeetCode/tree/master/0682-baseball-game) |
