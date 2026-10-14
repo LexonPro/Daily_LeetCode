@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/LexonPro/Daily_LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/LexonPro/Daily_LeetCode/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/LexonPro/Daily_LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0136-single-number](https://github.com/LexonPro/Daily_LeetCode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/LexonPro/Daily_LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0560-subarray-sum-equals-k](https://github.com/LexonPro/Daily_LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/LexonPro/Daily_LeetCode/tree/master/0682-baseball-game) |
@@ -124,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/LexonPro/Daily_LeetCode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/LexonPro/Daily_LeetCode/tree/master/0844-backspace-string-compare) |
 | [2390-removing-stars-from-a-string](https://github.com/LexonPro/Daily_LeetCode/tree/master/2390-removing-stars-from-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/LexonPro/Daily_LeetCode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
