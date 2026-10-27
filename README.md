@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/LexonPro/Daily_LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0136-single-number](https://github.com/LexonPro/Daily_LeetCode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/LexonPro/Daily_LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0268-missing-number](https://github.com/LexonPro/Daily_LeetCode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/LexonPro/Daily_LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/LexonPro/Daily_LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/LexonPro/Daily_LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/LexonPro/Daily_LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/LexonPro/Daily_LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/LexonPro/Daily_LeetCode/tree/master/0018-4sum) |
+| [0268-missing-number](https://github.com/LexonPro/Daily_LeetCode/tree/master/0268-missing-number) |
 ## Greedy
 |  |
 | ------- |
@@ -48,11 +50,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/LexonPro/Daily_LeetCode/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/LexonPro/Daily_LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/LexonPro/Daily_LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/LexonPro/Daily_LeetCode/tree/master/0268-missing-number) |
 | [3875-construct-uniform-parity-array-i](https://github.com/LexonPro/Daily_LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/LexonPro/Daily_LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/LexonPro/Daily_LeetCode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/LexonPro/Daily_LeetCode/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
@@ -61,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/LexonPro/Daily_LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/LexonPro/Daily_LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/LexonPro/Daily_LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0268-missing-number](https://github.com/LexonPro/Daily_LeetCode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/LexonPro/Daily_LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/LexonPro/Daily_LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
@@ -143,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/LexonPro/Daily_LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/LexonPro/Daily_LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/LexonPro/Daily_LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/LexonPro/Daily_LeetCode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
